@@ -4,7 +4,7 @@
 
 A beautiful, customizable Lovelace card for displaying real-time public transit departure information from the [PH Steiermark Öffi Integration](https://github.com/gregor-autischer/PH_Steiermark_Oeffi).
 
-![Card Preview](preview.png)
+![Card Preview](preview_image.png)
 
 ## Features
 
