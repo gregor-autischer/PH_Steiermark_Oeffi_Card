@@ -26,7 +26,7 @@ This card requires the [PH Steiermark Öffi Integration](https://github.com/greg
 2. Add this repository as a custom repository:
    - HACS → Frontend → Menu → Custom repositories
    - Repository: `https://github.com/gregor-autischer/PH_Steiermark_Oeffi_Card`
-   - Category: `Lovelace`
+   - Category: `Dashboard`
 3. Click "Install"
 4. Add the resource (if not automatically added):
    - Settings → Dashboards → Resources → Add Resource
