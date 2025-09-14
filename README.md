@@ -1,4 +1,4 @@
-# PH Steiermark Öffi Card - Home Assistant Lovelace Card
+# Powerhaus Steiermark Öffi Card - Home Assistant Lovelace Card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
