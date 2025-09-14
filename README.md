@@ -216,12 +216,6 @@ Contributions are welcome! Please:
 4. Test thoroughly
 5. Submit a pull request
 
-## Support
-
-- **Issues**: [GitHub Issues](https://github.com/gregor-autischer/PH_Steiermark_Oeffi_Card/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/gregor-autischer/PH_Steiermark_Oeffi_Card/discussions)
-- **Integration Support**: [PH Steiermark Öffi Integration](https://github.com/gregor-autischer/PH_Steiermark_Oeffi)
-
 ## License
 
 Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
