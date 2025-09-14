@@ -9,11 +9,10 @@ A beautiful, customizable Lovelace card for displaying real-time public transit 
 ## Features
 
 - 🎨 **Clean, modern design** - Compact display with line badges and departure minutes
-- 🎯 **Real-time status indicators** - Color-coded minutes show live vs scheduled data
+- 🎯 **Real-time status indicators** - Color-coded departure times indicate data source and delays
 - 🔢 **Configurable departure count** - Display 1-7 departures
 - 🌈 **Custom line colors** - Assign specific colors to transit lines
 - ⚡ **Visual configuration UI** - Easy setup through Home Assistant's UI
-- 📱 **Responsive design** - Works on desktop and mobile devices
 
 ## Prerequisites
 
@@ -106,9 +105,9 @@ Each departure shows:
 ### Status Indicators
 
 Minutes are color-coded to indicate data quality:
-- **Default color** - Real-time data available
-- **Red** - Delayed departure
-- **Orange** - Scheduled data only (no real-time info)
+- **Black** - Live departure time (real-time data available)
+- **Orange** - Scheduled departure time (no real-time data available)  
+- **Red** - Delayed departure (live data showing delay from schedule)
 
 ## Examples
 
@@ -228,7 +227,5 @@ Contributions are welcome! Please:
 Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
-
-Created by Gregor Autischer for the Powerhaus Smart Home ecosystem.
 
 This card is designed to work with the [PH Steiermark Öffi Integration](https://github.com/gregor-autischer/PH_Steiermark_Oeffi) for Home Assistant.
